@@ -24,6 +24,6 @@ public class DeleteEx {
 			e.printStackTrace();
 			System.out.println("DELETE ½ÇÆÐ");
 		}
-//		aaaaaa
+//		aaaaaa//
 	}
 }
